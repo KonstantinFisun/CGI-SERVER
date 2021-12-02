@@ -6,7 +6,7 @@ import html
 import sqlite3
 
 # Создание соедиения с базой
-connection = sqlite3.connect("C:\\Users\\kosty\\OneDrive\\Документы\\GitHub\\CGI-SERVER\\land_transport.db")
+connection = sqlite3.connect("Z:\\CGI-SERVER\\land_transport.db")
 # Создание курсора
 cursor = connection.cursor()
 
