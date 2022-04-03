@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<Database>
+	<table name="Type_transport">
+		<id id="pi">
+			<field>lol</field>
+		</id>
+	</table>
+</Database>

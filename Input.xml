@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<database>
+   <table name="Type_transport">
+     <title>Грузовая с прицепом</title>
+   </table>
+   <table name="Firm">
+     <title>Ferrari</title>
+     <country>Италия</country>
+   </table>
+   <table name="Transport">
+     <power>523</power>
+     <weight>1800</weight>
+     <model>Spider</model>
+     <typeID>1</typeID>
+     <firmID>5<firmID>
+   </table>
+</database>
